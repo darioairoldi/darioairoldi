@@ -23,8 +23,8 @@ I'm a full stack application developer on passionate about technologies. Expert 
   Client and server technologies 
   C#, C++ development
 
-- 🔭 I’m currently working on ...
-  -https://github.com/diginsight/blog
+- 🔭 I’m currently working on:
+  - https://github.com/diginsight/blog
   - https://github.com/diginsight/telemetry
   - https://github.com/diginsight/telemetry.samples
   - https://github.com/diginsight/smartcache
