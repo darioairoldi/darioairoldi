@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I'm a full stack application developer on passionate about technologies. Expert on azure technologies and Microsoft environments and compilers.
 - 🌱 I’m currently learning ...
-  Azure AI technologies
-  Azure Iot technologies
-  Microservices architectures
-  Client and server technologies 
-  C#, C++ development
+  - Azure AI technologies
+  - Azure Iot technologies
+  - Microservices architectures
+  - Client and server technologies 
+  - C#, C++ development
 
 - 🔭 I’m currently working on:
   - https://github.com/diginsight/blog
