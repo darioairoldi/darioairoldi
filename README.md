@@ -36,4 +36,7 @@ I'm a full stack application developer on passionate about technologies. Expert 
 
 
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+  - dario.airoldi@live.com
+  - dario.airoldi@microsoft.com
+
