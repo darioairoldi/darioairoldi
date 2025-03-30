@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a full stack application developer on passionate about technologies. Expert on azure technologies and Microsoft environments and compilers.
+- 🌱 I’m currently learning ...
+  Azure AI technologies
+  Azure Iot technologies
+  Microservices architectures
+  Client and server technologies 
+  C#, C++ development
+
+- 🔭 I’m currently working on ...
+  -https://github.com/diginsight/blog
+  - https://github.com/diginsight/telemetry
+  - https://github.com/diginsight/telemetry.samples
+  - https://github.com/diginsight/smartcache
+  - https://github.com/diginsight/smartcache.samples
+  - https://github.com/diginsight/components/
+  - https://github.com/diginsight/components.samples
+  - https://github.com/diginsight/samples
+  - https://github.com/diginsight/tools
+
+
+
+- 📫 How to reach me: ...
