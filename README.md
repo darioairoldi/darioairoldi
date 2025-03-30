@@ -40,3 +40,7 @@ I'm a full stack application developer on passionate about technologies. Expert 
   - dario.airoldi@live.com
   - dario.airoldi@microsoft.com
 
+  - https://www.facebook.com/dario.airoldi.92/
+  - https://www.komoot.com/user/2816221527089
+  - https://www.linkedin.com/in/dario-airoldi-79a626/
+  - https://www.instagram.com/airoldi_dario/
